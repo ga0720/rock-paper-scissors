@@ -10,7 +10,7 @@ import java.util.*;
  */
 public class PlayerExample implements Player
 {
-    private static String name = "PlayerExample";
+    private static String name = "GauraviAgrawal";
     /**
      * An example of a method - replace this comment with your own
      * You must create some kind of logic of what to play against your opponent...start thinking!
@@ -23,7 +23,7 @@ public class PlayerExample implements Player
      */
     public String move(String [] myMoves, String [] opponentMoves, int myScore, int opponentScore)
     {
-        return " ";
+        return "s";
     }
     /**
      * Returns the name of the player
